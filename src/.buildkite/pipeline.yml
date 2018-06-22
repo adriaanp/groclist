@@ -1,0 +1,5 @@
+steps:
+  - name: "Compile"
+    plugins:
+      docker-compose#v2.4.1:
+        build: web
