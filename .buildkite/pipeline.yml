@@ -1,5 +1,5 @@
 steps:
   - name: "Build :docker:"
     plugins:
-      docker-componse:
+      docker-compose#v2.4.1:
         build: "web"
