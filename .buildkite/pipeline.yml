@@ -1,5 +1,5 @@
 steps:
   - name: "Compile"
     command: 
-    - cd build-scripts
-    - build.sh
+    - "cd build-scripts"
+    - "build.sh"
