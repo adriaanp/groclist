@@ -1,0 +1,3 @@
+steps:
+  - name: "Compile"
+    command: build-scripts/build.sh
